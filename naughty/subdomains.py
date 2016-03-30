@@ -14,7 +14,7 @@ Many thanks to @ckrailo for making this module possible.
 """
 
 
-main = set((
+phishing = set((
     'about',
     'abuse',
     'acme',
