@@ -14,7 +14,7 @@ Many thanks to @ckrailo for making this module possible.
 """
 
 
-main = (
+main = set((
     'about',
     'abuse',
     'acme',
@@ -338,4 +338,4 @@ main = (
     'xhtrnl',
     'xml',
     'xxx',
-)
+))
