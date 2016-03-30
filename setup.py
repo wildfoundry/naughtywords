@@ -19,8 +19,7 @@ setup(
     install_requires=(),
     license='LGPL',
     name='naughty',
-    packages=find_packages(),
+    packages=find_packages(exclude=['tests']),
     url='https://github.com/wildfoundry/naughtywords/',
     version=version,
 )
-
